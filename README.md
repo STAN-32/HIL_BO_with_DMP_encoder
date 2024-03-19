@@ -13,3 +13,8 @@ This folder contains the ROS package for implementing the Bayesian algorithm for
 ```
 roslaunch bayes_op bo.launch 
 ```
+Note that running this program requires the installation of the Bayesian optimization Python package, which can be installed using the following command.
+```
+pip install bayesian-optimization
+```
+
