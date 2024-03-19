@@ -1,0 +1,23 @@
+# kinematic
+float32 q1
+float32 q2
+float32 q3
+float32 q4
+float32 q5
+float32 q1_dot
+float32 q2_dot
+float32 q3_dot
+float32 q4_dot
+float32 q5_dot
+float32 q1_ddot
+float32 q2_ddot
+float32 q3_ddot
+float32 q4_ddot
+float32 q5_ddot
+# force
+float32 tau1
+float32 tau2
+float32 tau3
+float32 tau4
+float32 tau5
+string comment  #comment
