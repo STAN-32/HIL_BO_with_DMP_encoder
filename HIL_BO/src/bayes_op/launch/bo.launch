@@ -1,0 +1,5 @@
+<launch>
+<param name="init_mode" type="string" value="E"/>
+<node pkg="bayes_op" type="Bayes_OP.py" name="bayes_op" output="screen"/>
+<!-- add rosbag  -->
+</launch>
