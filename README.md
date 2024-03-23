@@ -7,6 +7,7 @@ The encoding results can be generated and saved in compare.png by running the fo
 ```
 plot_simu.m
 ```
+The codes are tested with MATLAB 2022a, and should be compatible with any versions above MATLAB 2021b.
 
 ## HIL_BO
 This folder contains the ROS package for implementing the Bayesian algorithm for human-in-the-loop optimization, which can be run with the following command after compilation.
